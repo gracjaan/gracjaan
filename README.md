@@ -1,20 +1,4 @@
-<h1 align="left">Hey, I'm Gracjan 👋</h1>
-
-###
-
-<p align="left">My name is Gracjan Chmielnicki and I'm a software engineer, from Poland pursuing a degree in the Netherlands.</p>
-
-###
-
-<div align="center">
-  <img height="180" src="https://media.licdn.com/dms/image/D4E16AQFpMfudnGEQoA/profile-displaybackgroundimage-shrink_350_1400/0/1675462036320?e=1698278400&v=beta&t=jdA967lrluJcejFZnq83jvXh3FaA91jLs5StkfaQgPI"  />
-</div>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h1 align="left">heyyy, Gracjan here</h1>
 
 <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Flutter/Dart<br>🎯 Goals: succeed with styll.<br><br>When I'm not lost in lines of code, you can find me exploring the latest tech trends, building side projects, or sharing my knowledge with the community. I believe in constant learning, and I'm always up for a good tech chat or a coding challenge.</p>
 
